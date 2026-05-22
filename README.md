@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="diagrams/logo.png" alt="Evil Santa Logo" width="900"/>
+  <img src="diagrams/logo.png" alt="Evil Santa Logo" width="1000"/>
 
   # Evil Santa
 
