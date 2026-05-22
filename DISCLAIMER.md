@@ -2,7 +2,7 @@
 
 Evil Santa is provided for educational and awareness purposes only.
 
-The project explains Evil Twin Wi-Fi risks using safe examples and defensive learning material.
+The project explains Evil Twin Wi-Fi risks.
 
 ---
 
